@@ -42,7 +42,7 @@ mediapipe-workshop/
 
 No installation required! Click the button below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/mediapipe_workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/16TL9UQ3E5fo8QXNVXfXw2uwnEZxMYhdZ/view?usp=share_link)
 
 
 ## 📚 Workshop Content
