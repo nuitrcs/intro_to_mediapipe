@@ -33,8 +33,7 @@ mediapipe-workshop/
 │   └── df_tweets.csv
 ├── audio_samples/               # Audio files for classification (optional)
 │   └── ...
-└── models/                     # Downloaded automatically during workshop
-    └── ...
+
 ```
 
 ## 🚀 Getting Started
