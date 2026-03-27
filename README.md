@@ -14,7 +14,7 @@ This 1-hour workshop covers three core MediaPipe capabilities:
 
 ## 🎓 Prerequisites
 
-- Basic Python knowledge (variables, functions, loops)
+- Foundational Python knowledge (variables, functions, loops)
 - No machine learning background required
 - No deep learning knowledge needed
 
@@ -49,7 +49,7 @@ No installation required! Click the button below to open the notebook directly i
 ### Part 1: Introduction 
 
 - **What is MediaPipe?** — A plug-and-play AI toolkit from Google
-- **Why MediaPipe?** — Free, simple, pretrained models, runs locally
+- **Why MediaPipe?** —  Free, simpler than other frameworks, pretrained models, runs locally
 - **Capabilities Overview** — Computer vision, NLP, audio analysis
 - **Interactive Demo** — [MediaPipe Studio](https://mediapipe-studio.webapps.google.com/home)
 
