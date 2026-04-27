@@ -102,4 +102,4 @@ MediaPipe is licensed under the [Apache 2.0 License](https://github.com/google/m
 
 **Questions?** Open an issue or reach out to valerio.lagatta@northwestern.edu
 
-*Last updated: March 2026*
+*Last updated: April 2026*
