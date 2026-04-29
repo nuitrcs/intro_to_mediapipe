@@ -42,7 +42,7 @@ mediapipe-workshop/
 
 No installation required! Click the button below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valeriolagatta/rdcs_mediapipe_workshop/blob/main/mediapipe_workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nuitrcs/intro_to_mediapipe/blob/main/mediapipe_workshop.ipynb)
 
 ## 📚 Workshop Content
 
@@ -76,17 +76,6 @@ No installation required! Click the button below to open the notebook directly i
 - Validation strategies for research
 - Resources for continued learning
 
-
-## 🤝 Contributing
-
-Found an issue or want to improve the workshop? Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add improvement'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This workshop material is released under the [Apache 2.0](LICENSE).
@@ -99,7 +88,5 @@ MediaPipe is licensed under the [Apache 2.0 License](https://github.com/google/m
 - Workshop participants for feedback and suggestions
 
 ---
-
-**Questions?** Open an issue or reach out to valerio.lagatta@northwestern.edu
 
 *Last updated: April 2026*
